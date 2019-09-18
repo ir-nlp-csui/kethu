@@ -1,4 +1,4 @@
-# kethu: An Indonesian Constituency Treebank in the Penn Treebank format
+# KETHU: An Indonesian Constituency Treebank in the Penn Treebank Format
 <b><i>(Kethu: Treebank "Constituency" Bahasa Indonesia dalam Format Penn Treebank)</i></b>
 
 We revised an Indonesian constituency treebank created by <a href="https://github.com/famrashel/idn-treebank">Dinakaramani et al (2015)</a>.
