@@ -5,7 +5,7 @@ We revised and converted an Indonesian constituency treebank created by <a href=
 
 The explanation on why and how we convert that treebank can be read in our paper:
 
-Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. <b>"Converting an Indonesian Constituency Treebank to the Penn Treebank Format"</b>. In the Proceeding of Internation Conference of Asian Language Processing (IALP) 2019 in Shanghai 15-17 November. <i>(accepted)</i>
+<a href="https://www.researchgate.net/publication/335883745_Converting_an_Indonesian_Constituency_Treebank_to_the_Penn_Treebank_Format">Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. <b>"Converting an Indonesian Constituency Treebank to the Penn Treebank Format"</b>. In the Proceeding of Internation Conference of Asian Language Processing (IALP) 2019 in Shanghai 15-17 November. <i>(accepted)</i></a>
 
 Number of parse trees: 1030.
 
