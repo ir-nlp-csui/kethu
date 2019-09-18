@@ -9,4 +9,4 @@ Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. <b>"Conver
 
 Number of parse trees: 1030.
 
-Note: We borrowed the treebank from name from  <a href="http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html">a forest in Wonosobo</a>. Why a forest? Because treebank contains parse trees, as the forest contains trees ;-)
+Note: We borrowed the treebank name from  <a href="http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html">a forest in Wonosobo</a>. Why a forest? Because treebank contains parse trees, as the forest contains trees ;-)
