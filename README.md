@@ -1,7 +1,12 @@
 # KETHU: An Indonesian Constituency Treebank in the Penn Treebank Format
 <b><i>(KETHU: Treebank "Constituency" Bahasa Indonesia dalam Format Penn Treebank)</i></b>
 
-We revised and converted an Indonesian constituency treebank created by <a href="https://github.com/famrashel/idn-treebank">Dinakaramani et al (2015)</a> to the Penn Treebank format, a de-facto standard in creating the constituency treebank.
+We revised and converted an Indonesian constituency treebank created by <a href="https://github.com/famrashel/idn-treebank">Dinakaramani et al (2015)</a> from Universitas Indonesia to the Penn Treebank format, a de-facto standard in creating the constituency treebank.
+
+We revised:
+- the bracketing format
+- the POS tag set
+- missing punctuations, typo, etc.
 
 The explanation on why and how we convert that treebank can be read in our paper:
 
