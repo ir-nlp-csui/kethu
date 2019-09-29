@@ -4,7 +4,7 @@
 We revised and converted an Indonesian constituency treebank created by <a href="https://github.com/famrashel/idn-treebank">Dinakaramani et al (2015)</a> from Universitas Indonesia to the Penn Treebank format, a de-facto standard in creating the constituency treebank.
 
 We revised:
-- the bracketing format for compound words
+- the bracketing format
 - the POS tag set
 - missing punctuations, typo, incorrect reported speech annotation, etc.
 
