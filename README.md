@@ -4,7 +4,7 @@
 We revised and converted an Indonesian constituency treebank created by [Dinakaramani et al (2015)](https://github.com/famrashel/idn-treebank) from Universitas Indonesia to the Penn Treebank format, a de-facto standard in creating the constituency treebank.
 
 ## Kethu 1.0
-Last update: Oktober 2019
+Last update: September 2019
 
 ### Changes
 * revising the bracketing format to PTB format
@@ -20,7 +20,7 @@ Last update: Oktober 2019
 
 The explanation on why and how we convert that treebank can be read in our paper:
 
-* Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. "**Converting an Indonesian Constituency Treebank to the Penn Treebank Format**". In the Proceeding of The 2019 International Conference of Asian Language Processing (IALP 2019) in Shanghai, China, 15-17 November 2019. _The paper can be downloaded [here](https://ieeexplore.ieee.org/abstract/document/9037723)_
+* Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. "**Converting an Indonesian Constituency Treebank to the Penn Treebank Format**". In the Proceeding of The 2019 International Conference of Asian Language Processing (IALP 2019) in Shanghai, China, 15-17 November 2019. _The paper can be downloaded [here](https://ieeexplore.ieee.org/abstract/document/9037723)._
 
 ### Statistics of Kethu 1.0
 * Number of parse trees: 1,030
@@ -29,4 +29,4 @@ The explanation on why and how we convert that treebank can be read in our paper
 * Min of sentence length: 2
 * Max of sentence length: 83
 
-_Note: We borrowed the treebank name from  <a href="">[a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because treebank contains parse trees, as the forest contains trees ;-) _
+_Note: We borrowed the treebank name from  [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because treebank contains parse trees, as the forest contains trees ;-) _
