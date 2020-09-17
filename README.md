@@ -12,8 +12,8 @@ Last update: September 2019
 * resolving missing punctuations, typo, incorrect reported speech annotation, etc.
 
 ### Contributors
-* Jessica Naraiswari Arwidarasti
-* Ika Alfina
+* Annotation guidelines design: Ika Alfina, Jessica Naraiswari Arwidarasti
+* Annotators: Jessica Naraiswari Arwidarasti, Ika Alfina 
 
 ### Reference
 
