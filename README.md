@@ -3,14 +3,14 @@
 
 We revised and converted an Indonesian constituency treebank created by [Dinakaramani et al (2015)](https://github.com/famrashel/idn-treebank) from Universitas Indonesia to the Penn Treebank format, a de-facto standard in creating the constituency treebank.
 
-## Kethu 1.0
-Last update: October 2020
+## Kethu 2.0
+Last update: October 8th 2020
 
 ### Changes
 * revising the POS tag and annotations for compound words
 * revising the tokenization, POS tagging ans syntactic annotation for predicate nominalization
 * revising the noun phrases containing numerical expression
-* changed the POS tag for 'Rp' and similar token from SYM to NN
+* changed the POS tag for 'Rp' and the similar token from SYM to NN
 
 ### Contributors
 * Ika Alfina and Jessica Naraiswari Arwidarasti
