@@ -3,7 +3,7 @@
 
 We revised and converted an Indonesian constituency treebank named [**idn-treebank** ](https://github.com/famrashel/idn-treebank) to the Penn Treebank format, a de-facto standard in creating the constituency treebank. The idn-treebank was built by Dinakaramani et al. in 2015 from Faculty of Computer Science, Universitas Indonesia. 
 
-_Note: We named this PTB version of the original constituecy treebank **Kethu**. We borrowed the treebank name from  [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because the treebank contains parse trees, as the forest contains trees_ ;-) 
+_Note: We named this PTB version of the idn-treebank **Kethu**. We borrowed the treebank name from  [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because the treebank contains parse trees, as the forest contains trees_ ;-) 
 
 
 ## Kethu 2.0
