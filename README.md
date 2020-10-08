@@ -3,6 +3,9 @@
 
 We revised and converted an Indonesian constituency treebank created by [Dinakaramani et al (2015)](https://github.com/famrashel/idn-treebank) from Universitas Indonesia to the Penn Treebank format, a de-facto standard in creating the constituency treebank.
 
+_Note: We named this PTB version of the original constituecy treebank **Kethu**. We borrowed the treebank name from  [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because the treebank contains parse trees, as the forest contains trees_ ;-) 
+
+
 ## Kethu 2.0
 Last updated: October 8th 2020
 
@@ -35,9 +38,6 @@ The explanation on why and how we convert that treebank can be read in our paper
 ### Statistics of Kethu 1.0
 * Number of parse trees: 1,030
 * Number of tokens: 28,117
-* Average of sentence length: 27.3
-* Min of sentence length: 2
-* Max of sentence length: 83
+* Sentence length: average: 27.3, min: 2, max: 83
 
-_Note: We borrowed the treebank name from  [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because the treebank contains parse trees, as the forest contains trees_ ;-) 
 
