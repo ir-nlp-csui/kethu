@@ -4,6 +4,18 @@
 We revised and converted an Indonesian constituency treebank created by [Dinakaramani et al (2015)](https://github.com/famrashel/idn-treebank) from Universitas Indonesia to the Penn Treebank format, a de-facto standard in creating the constituency treebank.
 
 ## Kethu 1.0
+Last update: October 2020
+
+### Changes
+* revising the POS tag and annotations for compound words
+* revising the tokenization, POS tagging ans syntactic annotation for predicate nominalization
+* revising the noun phrases containing numerical expression
+* changed the POS tag for 'Rp' and similar token from SYM to NN
+
+### Contributors
+* Ika Alfina and Jessica Naraiswari Arwidarasti
+
+## Kethu 1.0
 Last update: September 2019
 
 ### Changes
@@ -12,8 +24,7 @@ Last update: September 2019
 * resolving missing punctuations, typo, incorrect reported speech annotation, etc.
 
 ### Contributors
-* Annotation guidelines design: Ika Alfina, Jessica Naraiswari Arwidarasti
-* Annotators: Jessica Naraiswari Arwidarasti, Ika Alfina 
+* Ika Alfina and Jessica Naraiswari Arwidarasti
 
 ### Reference
 
@@ -28,5 +39,5 @@ The explanation on why and how we convert that treebank can be read in our paper
 * Min of sentence length: 2
 * Max of sentence length: 83
 
-_Note: We borrowed the treebank name from  [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because treebank contains parse trees, as the forest contains trees_ ;-) 
+_Note: We borrowed the treebank name from  [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because the treebank contains parse trees, as the forest contains trees_ ;-) 
 
