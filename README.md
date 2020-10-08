@@ -10,9 +10,9 @@ _Note: We named this PTB version of the original constituecy treebank **Kethu**.
 Last updated: October 8th 2020
 
 ### Changelog
-* revised the POS tag and annotations for compound words
-* revissed the tokenization, POS tagging ans syntactic annotation for predicate nominalization cases
-* revised the noun phrases containing numerical expression (especially QP)
+* revised the POS tagging and syntactic annotation for compound words
+* revissed the tokenization, POS tagging and syntactic annotation for predicate nominalization cases
+* revised the syntactic annotation for noun phrases containing numerical expression (especially QP)
 * changed the POS tag for 'Rp' and the similar tokens from SYM to NN
 
 ### Contributors
@@ -22,9 +22,9 @@ Last updated: October 8th 2020
 Last updated: September 2019
 
 ### Changelog
-* revising the bracketing format to PTB format
-* revising the POS tag set
-* resolving missing punctuations, typo, incorrect reported speech annotation, etc.
+* revised the bracketing format to PTB format
+* revised the POS tag set and adjusted the POS tagging
+* resolved missing punctuations, typo, incorrect reported speech annotation, etc.
 
 ### Contributors
 * Ika Alfina and Jessica Naraiswari Arwidarasti
@@ -39,5 +39,3 @@ The explanation on why and how we convert that treebank can be read in our paper
 * Number of parse trees: 1,030
 * Number of tokens: 28,117
 * Sentence length: average: 27.3, min: 2, max: 83
-
-
