@@ -12,12 +12,6 @@ Characteristics of the treebank:
 
 
 ## Changelog
-* 2020-10-08 v2.0
-  * revised the POS tagging and syntactic annotation for compound words
-  * revised the tokenization, POS tagging and syntactic annotation for predicate nominalization cases
-  * revised the syntactic annotation for noun phrases containing numerical expression (especially QP)
-  * changed the POS tag for 'Rp' and the similar tokens from SYM to NN
-
 * 2019-09-01 v1.0
   * revised the bracketing format to PTB format
   * revised the POS tag set and adjusted the POS tagging
