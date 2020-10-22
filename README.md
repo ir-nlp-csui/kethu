@@ -12,10 +12,16 @@ Characteristics of the treebank:
 
 
 ## Changelog
+* 2020-10-27 v2.0
+* revised the POS tagging and syntactic annotation for compound words
+* revised the tokenization, POS tagging and syntactic annotation for predicate nominalization cases
+* revised the syntactic annotation for noun phrases containing numerical expression (especially QP)
+* changed the POS tag for 'Rp' and the similar tokens from SYM to NN
+
 * 2019-09-01 v1.0
-  * revised the bracketing format to PTB format
-  * revised the POS tag set and adjusted the POS tagging
-  * resolved missing punctuations, typo, incorrect reported speech annotation, etc.
+* revised the bracketing format to PTB format
+* revised the POS tag set and adjusted the POS tagging
+* resolved missing punctuations, typo, incorrect reported speech annotation, etc.
 
 ## Contributors
 * Ika Alfina and Jessica Naraiswari Arwidarasti
@@ -24,6 +30,7 @@ Characteristics of the treebank:
 ## Reference
 
 The explanation on why and how we convert that treebank can be read in our paper:
+* Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. "**Adjusting Indonesian Compound Words Annotation to the Penn Treebank Format**". In the Proceeding of The 2019 International Conference of Asian Language Processing (IALP) 2020 in Kuala Lumpur, Malaysia, 4-6 Desember 2020. _(accepted)_ 
 
 * Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. ["**Converting an Indonesian Constituency Treebank to the Penn Treebank Format**"](https://ieeexplore.ieee.org/abstract/document/9037723). In the Proceeding of The 2019 International Conference of Asian Language Processing (IALP 2019) in Shanghai, China, 15-17 November 2019. 
 
