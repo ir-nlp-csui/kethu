@@ -19,8 +19,8 @@ Characteristics of the treebank:
   * changed the POS tag for 'Rp' and the similar tokens from SYM to NN
 
 * 2019-09-01 v1.0
-  * revised the bracketing format to PTB format
-  * revised the POS tag set and adjusted the POS tagging
+  * converted the bracketing format to the PTB format
+  * revised the POS tag set and adjusted the POS tags to the PTB tagset
   * resolved missing punctuations, typo, incorrect reported speech annotation, etc.
 
 ## Contributors
