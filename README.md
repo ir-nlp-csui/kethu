@@ -29,7 +29,10 @@ Characteristics of the treebank:
 
 ## References
 
+Please cite the following papers if you use this treebank for your project/publication:
 * Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. ["**Adjusting Indonesian Multiwords Expression Annotation to the Penn Treebank Format**"](https://ieeexplore.ieee.org/document/9310479). In the Proceeding of The 2020 International Conference of Asian Language Processing (IALP) 2020 in Kuala Lumpur, Malaysia, 4-6 Desember 2020 _(Online)_. 
 
 * Jessica Naraiswari Arwidarasti, Ika Alfina, and Adila Alfa Krisnadhi. ["**Converting an Indonesian Constituency Treebank to the Penn Treebank Format**"](https://ieeexplore.ieee.org/abstract/document/9037723). In the Proceeding of The 2019 International Conference of Asian Language Processing (IALP)  2019 in Shanghai, China, 15-17 November 2019. 
 
+## Contact
+ika.alfina [at] @cs.ui.ac.id
