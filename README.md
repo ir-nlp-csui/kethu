@@ -23,9 +23,11 @@ Characteristics of the treebank:
   * revised the POS tag set and adjusted the POS tags to the PTB tagset
   * resolved missing punctuations, typo, incorrect reported speech annotation, etc.
 
-## Contributors
-* Ika Alfina and Jessica Naraiswari Arwidarasti
+## Acknowledgments
 
+* The original constituency treebank was built with manual annotation by [Arawinda Dinakaramani, Fam Rashel, Andry Luthfi, and Ruli Manurung](https://github.com/famrashel/idn-treebank) at Faculty of Computer Science, Universitas Indonesia in 2015.
+* The Kethu v1.0 was built in 2019 by Jessica Naraiswari Arwidarasti and Ika Alfina, as the output of Jessica's undergraduate thesis project.
+* The Kethu v2.0 was built in 2020 by Jessica Naraiswari Arwidarasti and Ika Alfina, as the output of Jessica's "Studi Mandiri" project.
 
 ## References
 
