@@ -1,7 +1,7 @@
 # Kethu: An Indonesian Constituency Treebank in the Penn Treebank Format
 **(Kethu: Treebank "Constituency" Bahasa Indonesia dalam Format Penn Treebank)**
 
-## Introduction
+## Summary
 
 We revised and converted an Indonesian constituency treebank built by [**Dinakaramani et al. (2015)** ](https://github.com/famrashel/idn-treebank) to the Penn Treebank format, a de-facto standard in creating the constituency treebank. We named this treebank **Kethu**, a name of [a forest in Wonosobo](http://wiki-wisata.blogspot.com/2014/08/hutan-alas-kethu-wonogiri.html). Why a forest? Because the treebank contains parse trees, as the forest contains trees ;-) 
 
@@ -10,6 +10,8 @@ Characteristics of the treebank:
 * Average sentence length: 27.4 tokens/sentence
 * Genre: news in formal Indonesian
 
+## Dataset Split
+Since this dataset is very small, we recommend using ten-fold cross-validation.
 
 ## Changelog
 * 2020-10-27 v2.0
